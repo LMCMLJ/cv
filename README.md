@@ -25,7 +25,7 @@ I love working as part of a team, and have even had the chance to lead several d
 <->
 
 
-## Recent Projects
+## Projects
 
 ### FloatingPoint VR
 
