@@ -1,29 +1,30 @@
 # Mike Calvey
 [Skills](#skills) | [Projects](#projects) | [Education](#education)
 
-I am an excited young junior developer about to enter the world of professional development. Until now, I have been using my coding skills to contribute to various open source projects, including leading the creation of carbonsource, a project in it's early stages that aims to promote environmental accountability among politicians (something woefully nonexistant these days).
+I am an enthusiastic young software fanatic seeking to enter the world of professional development.  Until now, I have been using my coding skills to contribute to various open source projects, including FloatingPoint, a virtual reality city-building game, and "carbonsource", an early-stage project that aims to promote environmental accountability among politicians (woefully scarce!).
 
-I have just graduated from one of Europe's leading development bootcamps, [Maker's Academy](http://www.makersacademy.com/) and am now looking for a role as a Junior Developer. I love working as part of a team, and would like to work in an organisation that actively embraces practices such as Agile and pair programming.
+I have just graduated from one of Europe's leading development bootcamps, [Maker's Academy](http://www.makersacademy.com/), and am now looking for a full-time or part-time role as a Junior Developer.
 
 ## Skills
-I love working as part of a team, and have even had the chance to lead several development teams in the past. I consider Agile methodologies, TDD and pair programming central to writing good code and delivering value.
 
-#### Agile
 
-<->
+Broad experience with advanced software craftsmanship principles and project management techniques. Backend language experience includes Ruby and Javascript, as well as a good understanding of HTML and CSS for the frontend. Hands-on experience developing and deploying full stack web applications, as well as minor experience with server infrastructure and hosting. Took initiative and played one of the leading roles on team-based projects (including FloatingPoint and carbonsource).
+
+#### Agile/ XP
+
+Throughout the last 6 months I have been involved in numerous projects following Agile and Extreme Programming methodologies, including being the SCRUM team leader in projects such as FloatingPoint and CarbonSource.
 
 #### Pair Programming
 
-<->
+I believe that pair programming greatly increases the efficiency of developers. I am an experienced team communicator, and thrive when working in and leading development teams.
 
 #### Kanban/ project management
 
-<->
+I have organised and led several SCRUM teams, including leading more than 20 people on the carbonsource project.
 
 #### Test-driven Development
 
-<->
-
+I have significant experience with a wide variety of testing frameworks for both unit and feature testing. I have written my own unit testing framework for javascript that can be found on NPM, [tst.js](https://www.npmjs.com/package/tstjs).
 
 ## Projects
 
