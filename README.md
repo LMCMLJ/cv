@@ -30,19 +30,15 @@ I have significant experience with a wide variety of testing frameworks for both
 
 ### FloatingPoint VR
 
-<->
+FloatingPoint is a virtual reality city building game. I lead a team of 6 developers over the course of several weeks to produce the current version of the game. The game was made using Unity and C#, check out the tech demo [here](). In the game, a player can interact with the whole world around him physically, creating buildings roads and a multitude of props to create a landscape that can then be explored in first person.
 
 ### Yelp clone
 
-<->
-
-<!-- Makers-yelp is a functionality clone of yelp. I developed it with 3 other junior developers over the course of 5 days. We wrote it in ruby and used all of the standard rails technologies. Our project was written tests-first, and we had extensive unit and feature testing with Rspec and cucumber/ capybara. Check out the codebase [here](https://github.com/calveym/makersyelp). -->
+Makers-yelp is a functionality clone of yelp. I developed it with 3 other junior developers over the course of 5 days. We wrote it in ruby and used all of the standard rails technologies. Our project was written tests-first, and we had extensive unit and feature testing with Rspec and cucumber/ capybara. Check out the codebase [here](https://github.com/calveym/makersyelp).
 
 ### Airbnb clone
 
-<->
-
-<!-- Makersbnb is a functionality clone of airbnb. It allows users to sign up, create and edit property listings, and request to book other users' listings. I developed this project in 5 days with 3 other junior developers. For our tech stack, we opted to go with node, express and ejs. Our database runs on postgres, and our testing was done with jasmine. Check out the final product [here](http://makersbnb2016.herokuapp.com/home) and the code itself [here](https://github.com/calveym/makersbnb). -->
+Makersbnb is a functionality clone of airbnb. It allows users to sign up, create and edit property listings, and request to book other users' listings. I developed this project in 5 days with 3 other junior developers. For our tech stack, we opted to go with node, express and ejs. Our database runs on postgres, and our testing was done with jasmine. Check out the final product [here](http://makersbnb2016.herokuapp.com/home) and the code itself [here](https://github.com/calveym/makersbnb).
 
 ## Education
 
