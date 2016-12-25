@@ -6,31 +6,26 @@ I am an enthusiastic young software fanatic seeking to enter the world of profes
 I have just graduated from one of Europe's leading development bootcamps, [Maker's Academy](http://www.makersacademy.com/), and am now looking for a full-time or part-time role as a Junior Developer.
 
 ## Skills
-
-
 Broad experience with advanced software craftsmanship principles and project management techniques. Backend language experience includes Ruby and Javascript, as well as a good understanding of HTML and CSS for the frontend. Hands-on experience developing and deploying full stack web applications, as well as minor experience with server infrastructure and hosting. Took initiative and played one of the leading roles on team-based projects (including FloatingPoint and carbonsource).
 
 #### Agile/ XP
-
-Throughout the last 6 months I have been involved in numerous projects following Agile and Extreme Programming methodologies, including being the SCRUM team leader in projects such as FloatingPoint and CarbonSource.
+Throughout the last 6 months I have been involved in a number of projects following Agile and Extreme Programming methodologies, including being the SCRUM team leader in projects such as FloatingPoint and CarbonSource.
 
 #### Pair Programming
-
 I believe that pair programming greatly increases the efficiency of developers. I am an experienced team communicator, and thrive when working in and leading development teams.
 
-#### Kanban/ project management
-
-I have organised and led several SCRUM teams, including leading more than 20 people on the carbonsource project.
+#### Communication
+I am fluent in English, Russian and French, and I have experience working in Russian as well as English.
 
 #### Test-driven Development
-
 I have significant experience with a wide variety of testing frameworks for both unit and feature testing. I have written my own unit testing framework for javascript that can be found on NPM, [tst.js](https://www.npmjs.com/package/tstjs).
 
 ## Projects
 
 ### FloatingPoint VR
+FloatingPoint is a virtual reality city building game. I led a team of 6 developers over the course of several weeks to produce the initial prototype version of the game, and we will continue development over the coming months, leading up to an eventual release. The game was made using Unity and C#, check out the tech demo [here](). In the game, a player can interact with the whole world around them physically, creating buildings roads and a multitude of props to create a landscape that can then be explored in first person.
 
-FloatingPoint is a virtual reality city building game. I lead a team of 6 developers over the course of several weeks to produce the current version of the game. The game was made using Unity and C#, check out the tech demo [here](). In the game, a player can interact with the whole world around him physically, creating buildings roads and a multitude of props to create a landscape that can then be explored in first person.
+The game features a number of custom-made mechanics, such as a road drawing algorithm and simple car driving.
 
 ### Yelp clone
 
@@ -54,8 +49,8 @@ Makers-yelp is a functionality clone of yelp. I developed it with 3 other junior
 Makersbnb is a functionality clone of airbnb. It allows users to sign up, create and edit property listings, and request to book other users' listings. I developed this project in 5 days with 3 other junior developers. For our tech stack, we opted to go with node, express and ejs. Our database runs on postgres, and our testing was done with jasmine. Check out the final product [here](http://makersbnb2016.herokuapp.com/home) and the code itself [here](https://github.com/calveym/makersbnb).
 
 ## Education
-
-<->
+- Received 11 7's at MYP level (A* GCSE equivalent).
+- 39 Points in the IB, studying Math, English, Russian, French, Geography and Biology.
 
 ## Interests
 
