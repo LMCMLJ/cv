@@ -49,7 +49,7 @@ Makers-yelp is a functionality clone of yelp. I developed it with 3 other junior
 Makersbnb is a functionality clone of airbnb. It allows users to sign up, create and edit property listings, and request to book other users' listings. I developed this project in 5 days with 3 other junior developers. For our tech stack, we opted to go with node, express and ejs. Our database runs on postgres, and our testing was done with jasmine. Check out the final product [here](http://makersbnb2016.herokuapp.com/home) and the code itself [here](https://github.com/calveym/makersbnb).
 
 ## Education
-- Received 11 7's at MYP level (A* GCSE equivalent).
+- Received 11 7's at MYP level (11 A* GCSE equivalent).
 - 39 Points in the IB, studying Math, English, Russian, French, Geography and Biology.
 
 ## Interests
