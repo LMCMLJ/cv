@@ -12,7 +12,7 @@ Broad experience with advanced software craftsmanship principles and project man
 Throughout the last 6 months I have been involved in a number of projects following Agile and Extreme Programming methodologies, including being the SCRUM team leader in projects such as FloatingPoint and CarbonSource.
 
 #### Pair Programming
-I believe that pair programming greatly increases the efficiency of developers. I am an experienced team communicator, and thrive when working in and leading development teams.
+I believe that pair programming greatly increases the efficiency of developers and thrive when working on team projects.
 
 #### Communication
 I am fluent in English, Russian and French, and I have experience working in English as well as Russian.
