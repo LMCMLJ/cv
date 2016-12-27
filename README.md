@@ -1,7 +1,7 @@
 # Mike Calvey
 [Skills](#skills) | [Projects](#projects) | [Education](#education)
 
-I am an enthusiastic young software fanatic seeking to enter the world of professional development.  Until now, I have been using my coding skills to contribute to various open source projects, including FloatingPoint, a virtual reality city-building game, and "carbonsource", an early-stage project that aims to promote environmental accountability among politicians (woefully scarce!).
+I am an enthusiastic young software fanatic seeking to enter the world of professional development.  Until now, I have been using my coding skills to contribute to various open source projects, including FloatingPoint, a virtual reality city-building game, and "carbonsource", an early-stage project that (optimistically!) aims to promote environmental accountability among politicians.
 
 I have just graduated from one of Europe's leading development bootcamps, [Maker's Academy](http://www.makersacademy.com/), and am now looking for a full-time or part-time role as a Junior Developer.
 
@@ -46,11 +46,13 @@ Makers-yelp is a functionality clone of yelp. I developed it with 3 other junior
 - Sequelize
 - Jasmine
 
-Makersbnb is a functionality clone of airbnb. It allows users to sign up, create and edit property listings, and request to book other users' listings. I developed this project in 5 days with 3 other junior developers. For our tech stack, we opted to go with node, express and ejs. Our database runs on postgres, and our testing was done with jasmine. Check out the final product [here](http://makersbnb2016.herokuapp.com/home) and the code itself [here](https://github.com/calveym/makersbnb).
+Makersbnb is a functionality clone of airbnb. It allows users to sign up, create and edit property listings, and request to book other users' listings. This project was also created with 3 other junior developers. For our tech stack, we opted to go with node, express and ejs for extra customisability and a finer level of control over the product. Our database runs on postgres, and our testing was done with jasmine. Check out the final product [here](http://makersbnb2016.herokuapp.com/home) and the code itself [here](https://github.com/calveym/makersbnb).
 
 ## Education
-- Received 11 7's at MYP level (11 A* GCSE equivalent).
+- Graduate of Maker's Academy London
+- Graduate of Wellington College, Crowthorne, Berkshire
 - 39 Points in the IB, studying Math, English, Russian, French, Geography and Biology.
+- Received 11 7's at MYP level (11 A* GCSE equivalent).
 
 ## Interests
-Outside of coding, I am an avid mountaineer and adventurer. I have contributed to volunteer research projects around the world, such as a conservation project in Indonesia where I spent several weeks gathering crucial data in the rainforests.
+Outside of coding, I am an avid mountaineer, skier and adventurer. I have contributed to volunteer research projects around the world, such as a conservation project in Sulawesi, Indonesia where I spent several weeks gathering biodiversity data in the rainforests.
