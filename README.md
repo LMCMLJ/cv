@@ -15,7 +15,7 @@ Throughout the last 6 months I have been involved in a number of projects follow
 I believe that pair programming greatly increases the efficiency of developers. I am an experienced team communicator, and thrive when working in and leading development teams.
 
 #### Communication
-I am fluent in English, Russian and French, and I have experience working in Russian as well as English.
+I am fluent in English, Russian and French, and I have experience working in English as well as Russian.
 
 #### Test-driven Development
 I have significant experience with a wide variety of testing frameworks for both unit and feature testing. I have written my own unit testing framework for javascript that can be found on NPM, [tst.js](https://www.npmjs.com/package/tstjs).
@@ -23,7 +23,7 @@ I have significant experience with a wide variety of testing frameworks for both
 ## Projects
 
 ### FloatingPoint VR
-FloatingPoint is a virtual reality city building game. I led a team of 6 developers over the course of several weeks to produce the initial prototype version of the game, and we will continue development over the coming months, leading up to an eventual release. The game was made using Unity and C#, check out the tech demo [here](). In the game, a player can interact with the whole world around them physically, creating buildings roads and a multitude of props to create a landscape that can then be explored in first person.
+FloatingPoint is a virtual reality city building game. I led a team of 6 developers over the course of several weeks to produce the initial prototype version of the game, and we will continue development over the coming months, leading up to an eventual release. The game was made using Unity and C#, check out the tech demo [here](https://www.youtube.com/watch?v=XFBpKRfyup4). In the game, a player can interact with the whole world around them physically, creating buildings, roads and a multitude of props to create a landscape that can then be explored in first person.
 
 The game features a number of custom-made mechanics, such as a road drawing algorithm and simple car driving.
 
