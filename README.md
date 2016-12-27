@@ -6,7 +6,7 @@ I am an enthusiastic young software fanatic seeking to enter the world of profes
 I have just graduated from one of Europe's leading development bootcamps, [Maker's Academy](http://www.makersacademy.com/), and am now looking for a full-time or part-time role as a Junior Developer.
 
 ## Skills
-Broad experience with advanced software craftsmanship principles and project management techniques. Backend language experience includes Ruby and Javascript, as well as a good understanding of HTML and CSS for the frontend. Hands-on experience developing and deploying full stack web applications, as well as minor experience with server infrastructure and hosting. Took initiative and played one of the leading roles on team-based projects (including FloatingPoint and carbonsource).
+Broad experience with advanced software craftsmanship principles and project management techniques. Backend language experience includes Ruby and Javascript, as well as a good understanding of HTML and CSS for the frontend. Hands-on experience developing and deploying full stack web applications, as well as minor experience with server infrastructure and hosting.
 
 #### Agile/ XP
 Throughout the last 6 months I have been involved in a number of projects following Agile and Extreme Programming methodologies, including being the SCRUM team leader in projects such as FloatingPoint and CarbonSource.
