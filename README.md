@@ -53,5 +53,4 @@ Makersbnb is a functionality clone of airbnb. It allows users to sign up, create
 - 39 Points in the IB, studying Math, English, Russian, French, Geography and Biology.
 
 ## Interests
-
-<->
+Outside of coding, I am an avid mountaineer and adventurer. I have contributed to volunteer research projects around the world, such as a conservation project in Indonesia where I spent several weeks gathering crucial data in the rainforests.
