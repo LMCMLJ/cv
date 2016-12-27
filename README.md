@@ -23,9 +23,9 @@ I have significant experience with a wide variety of testing frameworks for both
 ## Projects
 
 ### FloatingPoint VR
-FloatingPoint is a virtual reality city building game. I led a team of 6 developers over the course of several weeks to produce the initial prototype version of the game, and we will continue development over the coming months, leading up to an eventual release. The game was made using Unity and C#, check out the tech demo [here](https://www.youtube.com/watch?v=XFBpKRfyup4). In the game, a player can interact with the whole world around them physically, creating buildings, roads and a multitude of props to create a landscape that can then be explored in first person.
+FloatingPoint is a virtual reality city building game. I led a team of 6 developers over the course of several weeks to produce the initial prototype version of the game, and we will continue development in our personal time over the coming months, leading up to an eventual release on Steam. The game was made using Unity and C#, check out the tech demo [here](https://www.youtube.com/watch?v=XFBpKRfyup4). In the game, a player can interact with the whole world around them physically, creating buildings, roads and a multitude of props to create a landscape that can then be explored in first person.
 
-The game features a number of custom-made mechanics, such as a road drawing algorithm and simple car driving.
+The game features a number of custom-made mechanics, such as a road drawing algorithm and a simple car driving system.
 
 ### Yelp clone
 
@@ -35,7 +35,7 @@ The game features a number of custom-made mechanics, such as a road drawing algo
 - ERB
 - RSpec + Cucumber
 
-Makers-yelp is a functionality clone of yelp. I developed it with 3 other junior developers over the course of 5 days. We wrote it in ruby and used all of the standard rails technologies. Our project was written tests-first, and we had extensive unit and feature testing with Rspec and cucumber/ capybara. Check out the codebase [here](https://github.com/calveym/makersyelp).
+Makers-yelp is a functionality clone of yelp. I developed it with 3 other junior developers. We wrote it in ruby and used all of the standard rails technologies. Our project was written tests-first, and we had extensive unit and feature testing with Rspec and cucumber/ capybara. Check out the codebase [here](https://github.com/calveym/makersyelp).
 
 ### Airbnb clone
 
