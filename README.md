@@ -49,7 +49,7 @@ Makers-yelp is a functionality clone of yelp. I developed it with 3 other junior
 Makersbnb is a functionality clone of airbnb. It allows users to sign up, create and edit property listings, and request to book other users' listings. This project was also created with 3 other junior developers. For our tech stack, we opted to go with node, express and ejs for extra customisability and a finer level of control over the product. Our database runs on postgres, and our testing was done with jasmine. Check out the final product [here](http://makersbnb2016.herokuapp.com/home) and the code itself [here](https://github.com/calveym/makersbnb).
 
 ## Education
-- Graduate of Maker's Academy London
+- Graduate of Maker's Academy London, a 16 week intensive coding bootcamp.
 - Graduate of Wellington College, Crowthorne, Berkshire
 - 39 Points in the IB, studying Math, English, Russian, French, Geography and Biology.
 - Received 11 7's at MYP level (11 A* GCSE equivalent).
