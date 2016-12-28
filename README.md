@@ -1,5 +1,5 @@
 # Mike Calvey
-[Skills](#skills) | [Projects](#projects) | [Education](#education)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Interests](#interests)
 
 I am an enthusiastic young software fanatic seeking to enter the world of professional development.  Until now, I have been using my coding skills to contribute to various open source projects, including FloatingPoint, a virtual reality city-building game, and "carbonsource", an early-stage project that (optimistically!) aims to promote environmental accountability among politicians.
 
