@@ -1,6 +1,9 @@
 # Mike Calvey
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Interests](#interests)
 
+Telephone number: 07748-07000-942
+Email: mjcalvey2@gmail.com
+
 I am an enthusiastic software fanatic seeking to enter the world of professional development in a full time or part time role as a junior developer.  Until now, I have been using my coding skills to contribute to various open source projects, including FloatingPoint, a virtual reality city-building game, and "carbonsource", an early-stage project that (optimistically!) aims to promote environmental accountability among politicians.
 
 I have just graduated from one of Europe's leading development bootcamps, [Maker's Academy](http://www.makersacademy.com/), and am now looking for a full-time or part-time role as a Junior Developer.
