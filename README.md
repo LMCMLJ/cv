@@ -1,7 +1,7 @@
 # Mike Calvey
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Interests](#interests)
 
-Telephone number: 07748-07000-942
+Telephone number: 07748-700-942
 
 Email: mjcalvey2@gmail.com
 
